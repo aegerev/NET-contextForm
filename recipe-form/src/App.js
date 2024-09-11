@@ -7,7 +7,7 @@ function App() {
 	return (
 		<RecipeProvider>
 			<div>
-				<h1>My Recipe App</h1>
+				<h1>My Recipes</h1>
 				<AddRecipe />
 				<RecipeList />
 			</div>
