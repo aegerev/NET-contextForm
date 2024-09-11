@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjis-cookbook-in-context/static/css/main.35f31b51.css",
+    "main.js": "/sanjis-cookbook-in-context/static/js/main.93b88a15.js",
+    "static/js/453.a484cecf.chunk.js": "/sanjis-cookbook-in-context/static/js/453.a484cecf.chunk.js",
+    "index.html": "/sanjis-cookbook-in-context/index.html",
+    "main.35f31b51.css.map": "/sanjis-cookbook-in-context/static/css/main.35f31b51.css.map",
+    "main.93b88a15.js.map": "/sanjis-cookbook-in-context/static/js/main.93b88a15.js.map",
+    "453.a484cecf.chunk.js.map": "/sanjis-cookbook-in-context/static/js/453.a484cecf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f31b51.css",
+    "static/js/main.93b88a15.js"
+  ]
+}
